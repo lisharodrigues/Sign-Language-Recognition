@@ -1,7 +1,3 @@
-Here's a sample GitHub README for your Sign Language Recognition system project:
-
----
-
 # Sign Language Recognition System
 
 This project is a **Sign Language Recognition system** that uses **LSTM-based deep neural networks** for real-time recognition of hand gestures. It aims to bridge the communication gap for people with hearing and speech impairments by translating hand gestures into text or speech using advanced machine learning techniques.
@@ -14,7 +10,6 @@ This project is a **Sign Language Recognition system** that uses **LSTM-based de
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 The Sign Language Recognition system is designed to capture hand gestures from video input and classify them into corresponding sign language symbols. The system uses **OpenCV** for video preprocessing and **TensorFlow** for building and training a **Long Short-Term Memory (LSTM)** neural network. This allows the system to recognize patterns in sequences of hand movements and accurately translate gestures into meaningful text or commands.
