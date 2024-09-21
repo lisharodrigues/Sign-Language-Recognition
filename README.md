@@ -55,12 +55,12 @@ The Sign Language Recognition system is designed to capture hand gestures from v
 
 4. **Train the LSTM model**:
    ```bash
-   python train_model.py
+   python nn.py
    ```
 
 5. **Run the recognition system**:
    ```bash
-   python sign_language_recognition.py
+   python run.py
    ```
 
 ## Usage
