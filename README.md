@@ -35,8 +35,8 @@ The Sign Language Recognition system is designed to capture hand gestures from v
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/sign-language-recognition-system.git
-   cd sign-language-recognition-system
+   git clone https://github.com/lisharodrigues/Sign-Language-Recognition.git
+   cd Sign-Language-Recognition
    ```
 
 2. **Install the required dependencies**:
